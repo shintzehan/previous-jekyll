@@ -1,1 +1,1 @@
-"Ich bin Shintzehan" 
+I want to understand how to use Git and GitHub, my purpose is to have basic programming ability.
