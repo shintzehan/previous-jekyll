@@ -1,1 +1,1 @@
-"# shintzehan.github.io" 
+"Ich bin Shintzehan" 
