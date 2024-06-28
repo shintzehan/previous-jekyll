@@ -1,3 +1,3 @@
-# I am Shin Tzehan, Electrical and Computer Engineer
-# I can speak English, Chinese and Japanese, and learning German as a hobbist.
-# conduct me at <shintzehan@gmail.com>
+# This webpage is owned by Shin Tzehan <shintzehan@gmail.com>
+# EECS background field application engineer, trilingual of English, Chinese and Japanese
+## Construction webpage, aims to implement React and Next.js framework
