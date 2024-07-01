@@ -1,5 +1,3 @@
-# Shin Tzehan's personal webpage
-
 ### I am participate in Optoelectronic Industry in Shenzhen, China
 Presently I am an Field Application Engineer, because I have eecs background and trilingual ability makes me easy to conduct with international peoples.
 ### Graduate at 2023, with EECS dual degree, want to obtain postgraduate degree in the future in ECE domain.
