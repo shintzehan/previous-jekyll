@@ -1,5 +1,5 @@
 # ECE (Electrical and Computer Engineering) background, multilingual FAE
-Contact me at <shintzehan@gmail.com>, [Blog](https://blog.shintzehan.com), [Github](https://github.com/shintzehan), [X platform](https://x.com/shintzehan)
+Contact me at <shintzehan@gmail.com>, ![](/resource/at.svg)(https://blog.shintzehan.com), ![](/resource/github.svg)(https://github.com/shintzehan), ![](/resource/twitter-x.svg)(https://x.com/shintzehan)
 ## What I did last year
 Since graduate at June 2023 from EECS dual degree program, I found myself in a huge confuse for my life, about what can I do and what kind of lifestyle I would like to live.  
 And because my degree are accredited by washington accord, an international engineering program accreditation association, I was plan to apply Austrailia 476 visa for work there for a time, because Harbin's high lattitude I was depressed and anxity in a level.  
