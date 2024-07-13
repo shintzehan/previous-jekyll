@@ -1,18 +1,20 @@
-# ECE (Electrical and Computer Engineering) background, multilingual FAE
+# ECE background, Asperger's Syndrome
 Contact me at ![](/resource/at.svg) <shintzehan@gmail.com>
+## Who am I
+I graduate with dual degree of BSc in EE and CS last year (2023), With Asperger's Syndrome caused English and Japanese professioncy.  
+Have learnt French, German, Korean, Persian and etc, but only English and Japanese have fullfilled with time and practice, Curious about culture and langauge around the globe.  
+No drive license or language certificates, before 2023 I haven't thought about these due to AS.
 ## What I did last year
-Since graduate at June 2023 from EECS dual degree program, I found myself in a huge confuse for my life, about what can I do and what kind of lifestyle I would like to live.  
-And because my degree are accredited by washington accord, an international engineering program accreditation association, I was plan to apply Austrailia 476 visa for work there for a time, because Harbin's high lattitude I was depressed and anxity in a level.  
-During the infomation accquization, I found myself with ability for quick language learning as an ASD (Asperger's Syndrome) person, which makes me talent in some fields, and I want to release my potential as soon as possible.
-### Scania interview at April 2023
-As european company, I have took an interview for job of hardware engineer based on Shanghai, And I realized my English oral speaking are highly functioning compare with vast of majority of Chinese, and as trilingual for Japanese additionally, I am very compatitive in the field that engineer work with English and / or Japanese in China, even in the period of post pandamic, most jobs are not as thought difficult for me to get.  
-But in the other hand, I have to admit that I don't have enough preparation for hard core engineer job at that time, I have nothing but the degree: no intern, no project and no hobbies.
-### Audio Visual System since November 2023
-I joined colorlight last November as Field Application Engineer and transfer to LR optoelectronics for industry experience this April, with various bazzar issues to handle, I generally realize it is hard to be an engineer, during my working experience, the complexity for communication with people and handle issue of electronic devices are highly exceeded my exceptation.  
-### Conclution for the last year
-I obtained ability of EECS basics, to read schmatics and datasheet, to operate with linux cli and build project from framework like ktor, and practical language working experience for English and Japanese, Which is kind of full-filled in sort of way. Pros can be a lot because I am smart in many ways. Cons are the communication and hands-on problem which might be dangerious for me in the future.  
-It's abvious that I have high potential in engineering, and to release this need time and experience.
+ChatGPT released early 2023, since then I use pure English interact with it and achieves good English practice experiences, especially EECS domains. At the early time I try to design my future career, I want to immigrate outside of China.  
+Because my degree align with washington accord, Australia visa type 476 give me oppertunity for work there no more than 18 month if I can proof my English professioncy (till 2023), I prioritized English ability for job finding.
+### Seek Oversea Oppertunities
+In April 2023, I've got final interview for Hardware Engineer in Scania Shanghai, but due to the lack of project practice as EE student, I failed. I choose to switch to domestic companies align with my favorites.
+### Seek Optic Industry Jobs
+I'm from Jiangxi province, according to what I knew about Nanchang, the capital city of Jiangxi province, It has great optic industry in recent years, and VR for entertainment.  
+I plan to participate in optic industry for future parents care and good transport to Xinyu. My first job is at Colorlight, in the EU group since Nov. to Mar. Mainly conduct with foreign customers in Schengen regions. My last job is at LR optoelectronics, since April to July.
+### Build comprehensive EECS career
+At the last job, I've experienced really a lot, since I quit and joined from a IPO company. I've help with sales conduct with Korean customers, involves shipping and EMC testing. later I help the testing engineer for EMC testing at labs, too.  
+I handles all of foreign language complains and post sales, which involves conduct with electronic engineers and structual engineers, too.
+I strongly feel I can do more, but Shenzhen work alternative-week are really tierd since I've got covid over 5 times, that is why I quit and go home for a rest.
 ## Plans
-I want to pursue higher degree for experience of thesis and cutting-edge experience, to obtain that I need to prepare a solid knowledge and experience background, and financial support. Considering about domestic, Japan and EU region programs for that, and learning French and German can be options.
-As career in engineering, I have some experience with electronic, structural and software enigneers, I felt that I curious about nearly all fiels that engineers participate in, even industry, testing and process engineers, It appears to become a range of comprehensive map of industry of electronics, and Shenzhen is indeed the hub for electronics of the world. I tend to dive into the origin field, the ECE field includes instrumentation (electromagnetic measurement), telecommunication, computer and software engineering.  
-I want to earn a second bachelor degree in liberal arts, too.
+I plan to learn FPGA / embedded system dev, and also programming with Kotlin / Ktor framework because I have friend works with Kotlin.
