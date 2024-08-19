@@ -2,5 +2,15 @@ title: Shin Tzehan's Blog
 email: shintzehan@gmail.com
 description: >- 
   I would upload my bios and news here
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.shintzehan.com" # the base hostname & protocol for your site, e.g. http://example.com
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+highlighter: rouge
+author: Shin Tzehan
+twitter_username: shintzehan
+github_username:  shintzehan
