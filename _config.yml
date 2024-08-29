@@ -6,3 +6,5 @@ description: >-
 baseurl: "/" 
 url: "https://www.shintzehan.com"
 theme: minima
+default_langauge: en
+supported_langauges: ['en', 'cn']
