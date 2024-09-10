@@ -5,5 +5,4 @@ description: >-
   participate in electrical and computer engineering.
 baseurl: "/" 
 url: "https://www.shintzehan.com"
-default_langauge: en
-supported_langauges: ['en', 'cn']
+theme: chripy
