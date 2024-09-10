@@ -5,4 +5,4 @@ description: >-
   participate in electrical and computer engineering.
 baseurl: "/" 
 url: "https://www.shintzehan.com"
-theme: "chripy"
+theme: "chirpy"
