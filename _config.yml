@@ -1,4 +1,4 @@
-title: Pak-Hong
+title: Austerlitz
 email: shintzehan@gmail.com
 description: >- 
   undergraduated in eecs;
@@ -6,7 +6,3 @@ description: >-
 baseurl: "/"
 url: "https://www.shintzehan.com"
 theme: minima
-if:
-  - path: /cn/
-  then:
-    title: 白虹
