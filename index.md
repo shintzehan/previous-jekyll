@@ -8,4 +8,4 @@ I am engineer that with ECE background, as well as hobbyist programmer, this web
 
 # Abilities
 
-I can speak English, Chinese and Japanese, this website would include as least three languages [English](), [Chinese](cn/) and Japanese
+I can speak English, Chinese and Japanese, this website would include as least three languages [English](/), [Chinese](/cn/) and [Japanese](/jp/)
