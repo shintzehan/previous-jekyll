@@ -1,8 +1,12 @@
-title: Shin Tzehan
+title: Pak-Hong
 email: shintzehan@gmail.com
 description: >- 
   undergraduated in eecs;
   participate in electrical and computer engineering.
-baseurl: "/" 
+baseurl: "/"
 url: "https://www.shintzehan.com"
 theme: minima
+if:
+  - path: /cn/
+then:
+  title: 白虹
