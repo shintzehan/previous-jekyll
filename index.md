@@ -1,7 +1,7 @@
 ---
 title: homepage
 ---
-# About Me
-## I obtained my undergraduate degree in eecs last year (2023), currently pursue an engineer's career in the electronic engineer and participate as programmer
-## I can speak multilanguages, include English, Japanese and Chinese.
-## contact me at <shintzehan@gmail.com>
+# English homepage
+I am Shin Tzehan, electrical and computer engineer and hobbyist programmer, welcome to my webpage
+
+feel free to contact me at <shintzehan@gmail.com>
