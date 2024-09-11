@@ -8,5 +8,5 @@ url: "https://www.shintzehan.com"
 theme: minima
 if:
   - path: /cn/
-then:
-  title: 白虹
+  then:
+    title: 白虹
