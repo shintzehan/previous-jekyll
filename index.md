@@ -1,4 +1,5 @@
 ---
+layout: default
 title: homepage
 ---
 # Testing for multilingual webpage launched by jekyll framework
